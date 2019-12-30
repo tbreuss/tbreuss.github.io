@@ -1,2 +1,3 @@
-# Hello World!
-<https://tbreuss.github.io>
+# README
+
+Placeholder website with redirect to <https://www.tebe.ch>
